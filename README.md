@@ -1,6 +1,6 @@
-## Hi there 👋, I'm Evgeny
+## Hi there , I'm Evgeny
 
-💻 **Junior Java / Kotlin Developer**  
+💻 ** Java / Kotlin Developer**  
 📱 Android • 🌐 Backend • 🗄 Databases
 
 ---
@@ -56,13 +56,6 @@ Mobile app for processing maintenance requests in an educational institution
 💰 **FinanceKeeper**  
 Personal finance tracking mobile application  
 🔗 https://github.com/ZynLxrd/FinanceKeeper
-
----
-
-### 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ZynLxrd&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZynLxrd&layout=compact&theme=tokyonight)
 
 ---
 
