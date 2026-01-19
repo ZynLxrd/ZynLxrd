@@ -51,7 +51,7 @@
 
 📱 **MPTSolver**  
 Mobile app for processing maintenance requests in an educational institution  
-🔗 https://github.com/ZynLxrd/MPTSolver
+🔗 [https://github.com/ZynLxrd/MPTSolver](https://github.com/ZynLxrd/ComposeMPT_Solver)
 
 💰 **FinanceKeeper**  
 Personal finance tracking mobile application  
